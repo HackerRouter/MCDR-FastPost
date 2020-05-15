@@ -5,6 +5,8 @@ A [MCDR](https://github.com/Fallen-Breath/MCDReforged) plugin which help you sen
 
 ~~Completely copied~~
 
+这是MCDR Message（玄云Fidel大佬所作）的魔改！魔改！魔改！重要的事情说三遍！就像QBM和AQB俩MCDR插件一样！
+
 --------
 
 ### 格式说明
