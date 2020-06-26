@@ -34,4 +34,6 @@ A [MCDR](https://github.com/Fallen-Breath/MCDReforged) plugin which help you sen
 
 **特别感谢：**
 
-  [Fallen_Breath](https://github.com/Fallen-Breath)
+[MCDReforged by Fallen_Breath](https://github.com/Fallen-Breath)
+
+[MCDRpost by Flyky](https://github.com/Flyky/MCDRpost)
