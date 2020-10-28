@@ -1,13 +1,13 @@
 # FastPost
 A [MCDR](https://github.com/Fallen-Breath/MCDReforged) plugin which help you send offline-message to other players in the game.
 
-一个支持游戏内给其他玩家发送邮件的[MCDR](https://github.com/Fallen-Breath/MCDReforged)插件
+一个支持游戏内给其他玩家发送在线或离线邮件的[MCDR](https://github.com/Fallen-Breath/MCDReforged)插件
 
-~~Completely copied~~
-
-这是MCDR Message（玄云Fidel大佬所作）的魔改！魔改！魔改！重要的事情说三遍！就像QBM和AQB俩MCDR插件一样！
+Created by HackerRouter & XuanYun_Fidel.
 
 > Add by XuanYun_Fidel on Jun 26, 2020: QwQ
+
+**> Powered by BCP Tech.**
 
 --------
 
